@@ -1,0 +1,17 @@
+.saad{
+    background: linear-gradient(135deg, rgba(255, 254, 254, 0.2),rgba(55, 36, 36, 0.34));
+    backdrop-filter:blur(5px) ;
+    -webkit-backdrop-filter:blur(10px) ;
+    color: white;
+    width: 35%;
+   min-width: 320px; 
+
+    
+}
+.header{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: large;
+    color: rgb(255, 217, 171);
+}
+
